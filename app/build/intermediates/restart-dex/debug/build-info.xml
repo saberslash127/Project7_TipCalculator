@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="420dpi"
+    format="7"
+    timestamp="9447946504138"
+    token="-713297943370521621"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="170" />
+    <task
+        name="instant-run-dex"
+        duration="777" />
+    <task
+        name="instant-run-transform"
+        duration="19" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="C:\Users\660252306\Downloads\Pictures\Project7_TipCalculator\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="8946358886678" >
+        <artifact
+            location="C:\Users\660252306\Downloads\Pictures\Project7_TipCalculator\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="9393410229312" >
+        <artifact
+            location="C:\Users\660252306\Downloads\Pictures\Project7_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="9447946504138"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\660252306\Downloads\Pictures\Project7_TipCalculator\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
